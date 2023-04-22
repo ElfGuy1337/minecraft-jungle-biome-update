@@ -1,0 +1,2 @@
+particle electric_spark ~ ~1 ~ 1.5 0 1.5 0 1 force
+execute as @e[type=item, tag=!springRestored, distance=..4, nbt=!{Item:{id:"minecraft:diamond"}}] at @s if entity @e[type=item, nbt={Item:{id:"minecraft:diamond"}}] at @s if block ~ ~ ~ water run function temple_boss:temple_spring/spring_activate

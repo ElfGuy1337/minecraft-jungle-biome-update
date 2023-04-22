@@ -1,0 +1,1 @@
+execute as @e[type=villager, sort=random, limit=1, distance=..40] at @s run function temple_boss:ai/attack/attack_6/kill_villager

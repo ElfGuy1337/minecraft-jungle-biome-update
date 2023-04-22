@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "temple_boss:new_jungle_temple",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 16,
+    "separation": 12,
+    "salt": 1264880431
+  }
+}

@@ -1,0 +1,2 @@
+summon skeleton ^-2 ^-2 ^1 {Invulnerable:1, NoAI:1, DeathLootTable:"minecraft:empty", Tags:[templeBossSkeleton, risingSkeleton], HandItems:[{Count:1,id:bow}]}
+summon skeleton ^2 ^-2 ^1 {Invulnerable:1, NoAI:1, DeathLootTable:"minecraft:empty", Tags:[templeBossSkeleton, risingSkeleton], HandItems:[{Count:1,id:bow}]}

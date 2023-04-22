@@ -1,0 +1,1 @@
+summon zombie ^ ^ ^5 {DeathLootTable:"minecraft:empty", Tags:[templeBossZombie],Invulnerable:1,PersistenceRequired:1,Silent:1,ActiveEffects:[{Id:1,Amplifier:1,Duration:999999},{Id:14,Amplifier:0,Duration:999999}]}

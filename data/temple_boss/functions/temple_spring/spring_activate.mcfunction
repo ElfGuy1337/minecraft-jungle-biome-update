@@ -1,0 +1,1 @@
+execute as @s at @e[type=item, sort=nearest, limit=1, distance=..10, nbt={Item:{id:"minecraft:diamond"}}] if block ~ ~ ~ water run function temple_boss:temple_spring/spring_healing
